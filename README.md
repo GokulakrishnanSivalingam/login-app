@@ -5,23 +5,22 @@
 
 ---
 
-## 💫 About the App
-
-This is a mobile authentication app built with **React Native**, **JavaScript**, and **Expo**. It includes essential user authentication features like registration, login, and logout. The app's modular structure and scalable design make it ideal for expanding into more advanced authentication scenarios.
-
 ## ✨ Features
 
 - **User Registration**: Register with email and password.
 - **User Login**: Log in with registered credentials.
 - **Logout**: Securely log out and clear session data.
 - **Protected Routes**: Access control based on authentication status.
-
+---
 ## 🔧 Tech Stack
 
 - ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 - ![React Navigation](https://img.shields.io/badge/react_navigation-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+<img src="https://i.pinimg.com/originals/ee/b4/b3/eeb4b379791397c1094937b12d6b1c28.gif" width=max-width, height:300px />
 
 ---
 
@@ -37,4 +36,7 @@ This is a mobile authentication app built with **React Native**, **JavaScript**,
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/authentication-app.git
-   cd authentication-app
+   cd login-app
+   npm install -g expo cli
+   npm init login-app
+   npx expo start
