@@ -20,7 +20,7 @@
 - ![React Navigation](https://img.shields.io/badge/react_navigation-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
-<img src="https://i.pinimg.com/originals/ee/b4/b3/eeb4b379791397c1094937b12d6b1c28.gif" width=max-width, height:300px />
+<img src="https://i.pinimg.com/originals/ee/b4/b3/eeb4b379791397c1094937b12d6b1c28.gif" style="width:400px; height:300px ;" />
 
 ---
 
